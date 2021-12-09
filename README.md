@@ -13,4 +13,4 @@ In the SEO Top Rank project, our fictitious web design & marketing company will 
 
 Our project, Swamp Scent, is similarly a funny page that seeks to sell the peculiar smells of the Floridian summer.
 
-The website for the project was hosted on Amazon AWS with Linux Apache, and built with HTML, CSS, JS, and Bootstrap. It included a domain, HTTPS/SSL certificate, very good mobile friendliness ratings and SEO rankings -- we have made it to the first page of the "bottled air lakeland" search query.
+The website for the project was hosted on Amazon AWS with a LAMP stack, and built with HTML, CSS, JS, and Bootstrap. It included a domain, HTTPS/SSL certificate, very good mobile friendliness ratings and SEO rankings -- we have made it to the first page of the "bottled air lakeland" search query.
