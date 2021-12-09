@@ -1,0 +1,28 @@
+@charset "utf-8";
+.form-group {
+    max-width: 600px;
+}
+.nav.nav-tabs {
+    color: #3C7342;
+}
+
+.form-check {
+    max-width: 600px;
+}
+.form-select {
+    max-width: 600px;
+}
+form {
+    padding-left: 0px;
+    margin-left: 1%;
+}
+
+body h4 {
+    margin-left: 5%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+button {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}

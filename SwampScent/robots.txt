@@ -1,0 +1,4 @@
+Sitemap: http://swampscent.com/sitemap.xml
+
+User-agent: *
+Allow: /

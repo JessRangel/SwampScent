@@ -1,0 +1,205 @@
+html
+{
+    font-size  : 18px;
+    overflow-x : hidden;
+}
+
+body
+{
+    position   : relative;
+    min-height : 100vh;
+}
+
+.contentWrapper
+{
+    margin-bottom : 2rem;
+}
+
+/*footer*/
+/*{*/
+/*    height           : 2rem;*/
+/*    position         : fixed;*/
+/*    bottom           : 0;*/
+/*    width            : 100%;*/
+/*    color            : white;*/
+/*    text-align       : center;*/
+/*    background-color : darkolivegreen;*/
+/*    font-family      : "Permanent Marker", cursive;*/
+/*}*/
+
+.smallerWidth
+{
+    max-width   : 90%;
+    margin-left : 5%;
+}
+
+/*h1, h2, h3*/
+/*{*/
+/*    font-family : "Permanent Marker", cursive;*/
+/*    padding     : 15px;*/
+/*}*/
+
+h1, h2, h3, h4
+{
+    font-family : "Permanent Marker", cursive;
+}
+
+.padding
+{
+    padding : 15px;
+}
+
+.subtitle
+{
+    padding-left : 15px;
+    font-family  : "Permanent Marker", cursive;
+}
+
+nav
+{
+    color            : white;
+    background-color : darkolivegreen;
+    font-family      : "Permanent Marker", cursive;
+    padding          : 2%;
+}
+
+/*a*/
+/*{*/
+/*    padding-left : 15px;*/
+/*}*/
+
+.inputDiv
+{
+    padding : 15px;
+}
+
+.formDiv
+{
+    background-color : whitesmoke;
+    text-align       : center;
+    align-content    : center;
+    padding          : 15px;
+}
+
+.blogDiv
+{
+    text-align    : center;
+    align-content : center;
+    padding       : 15px;
+}
+
+.blogPost
+{
+    text-align    : center;
+    align-content : center;
+    margin        : 25px;
+}
+
+card
+{
+    background-color : whitesmoke;
+    padding          : 15px;
+}
+
+div.card-body
+{
+    background-color : whitesmoke;
+    padding          : 25px;
+}
+
+p
+{
+    font-size : large;
+}
+
+.vertical-center
+{
+    margin          : 0;
+    position        : absolute;
+    top             : 50%;
+    left            : 50%;
+    align-items     : center;
+    justify-content : center;
+    justify-items   : center;
+    -ms-transform   : translateY(-50%);
+    transform       : translateY(-50%);
+}
+
+.thanks
+{
+    background-color : whitesmoke;
+    text-align       : center;
+    align-content    : center;
+    padding          : 15px;
+    font-family      : "Permanent Marker", cursive;
+    font-size        : xx-large;
+}
+
+.error
+{
+    background   : lightpink;
+    border-color : red;
+}
+
+.inputError
+{
+    background-color : mistyrose;
+    border-color     : red;
+}
+
+.errorHint
+{
+    color     : red;
+    font-size : small;
+}
+
+
+.productCard
+{
+    max-width           : 600px;
+    max-height          : 400px;
+    background-color    : #FFF;
+    box-shadow          : 0px 0px 25px rgba(0, 0, 0, 0.1);
+    background-position : center;
+    overflow            : hidden;
+    position            : relative;
+    margin              : 10px auto;
+    cursor              : pointer;
+    border-radius       : 10px;
+}
+
+.productCard div, .productCard a
+{
+    background-color : rgba(0, 0, 0, .15);
+    backdrop-filter  : blur(1px);
+    box-shadow       : 0px 0px 25px rgba(0, 0, 0, 0.3);
+}
+
+.productCard .productDescription
+{
+    position    : absolute;
+    left        : 30px;
+    bottom      : 70px;
+    color       : #FFF;
+    text-shadow : 0px 0px 50px rgba(0, 0, 0, 1);
+    font-weight : bold;
+}
+
+.productCard .productPrice
+{
+    position : absolute;
+    bottom   : 30px;
+    right    : 30px;
+    color    : #FFF;
+}
+
+.productCard img
+{
+    transition : all linear 0.25s;
+}
+
+.productCard:hover img
+{
+    filter : grayscale(100%);
+}
+

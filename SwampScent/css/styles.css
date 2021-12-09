@@ -1,0 +1,42 @@
+body
+{
+    position   : relative;
+    min-height : 100vh;
+}
+
+footer
+{
+    height           : 2rem;
+    position         : fixed;
+    bottom           : 0;
+    width            : 100%;
+    color            : white;
+    text-align       : center;
+    background-color : darkolivegreen;
+    font-family      : "Permanent Marker", cursive;
+}
+
+h1, h2
+{
+    font-family : "Permanent Marker", cursive;
+    padding     : 15px;
+}
+
+.subtitle
+{
+    padding-left : 15px;
+    font-family  : "Permanent Marker", cursive;
+}
+
+
+nav
+{
+    color            : white;
+    background-color : darkolivegreen;
+    font-family      : "Permanent Marker", cursive;
+}
+
+a
+{
+    padding-left : 15px;
+}
