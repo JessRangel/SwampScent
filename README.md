@@ -2,13 +2,19 @@
 The authentic smell of Florida you never knew you wanted!
 
 Web Application Development
+
 Florida Polytechnic University
+
 Fall 2021
+
 Professor Christian Navarro
 
 Group
+
 Christopher Babich
+
 Jessica Rangel
+
 Sarah Boyd
 
 In the SEO Top Rank project, our fictitious web design & marketing company will build a website to promote the product “Bottled Air” for your client, a Lakeland, Florida business. The class teams would compete for the highest SEO rankings in Google Search.
