@@ -5,17 +5,9 @@ Web Application Development
 
 Florida Polytechnic University
 
-Fall 2021
+Fall 2021 - Professor Christian Navarro
 
-Professor Christian Navarro
-
-Group
-
-Christopher Babich
-
-Jessica Rangel
-
-Sarah Boyd
+Group: Christopher Babich, Jessica Rangel, and Sarah Boyd
 
 In the SEO Top Rank project, our fictitious web design & marketing company will build a website to promote the product “Bottled Air” for your client, a Lakeland, Florida business. The class teams would compete for the highest SEO rankings in Google Search.
 
